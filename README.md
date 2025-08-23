@@ -1,6 +1,7 @@
 # G-QR
 
 This project is a G-QR is a QR code generator that allows users to create QR codes easily through a graphical user interface (GUI) built with Tkinter.
+<img src="https://raw.githubusercontent.com/HarshYadav152/resources/main/images/G-QR/G-qr.png" />
 
 ## Project Structure
 
