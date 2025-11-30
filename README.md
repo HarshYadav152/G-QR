@@ -6,7 +6,7 @@ This project is a G-QR is a QR code generator that allows users to create QR cod
 ## Project Structure
 
 ```
-qr-code-generator
+qr-generator
 ├── src
 │   ├── main.py          # Main entry point for the QR code generator
 │   └── gui
